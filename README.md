@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src="walkthrough.gif" title="GIF Walkthrough" alt="App Walkthrough" />
+<img src="walkthough.gif" title="GIF Walkthrough" alt="App Walkthrough" />
 
 GIF created with https://www.screentogif.com/
 
@@ -30,7 +30,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Pallavi Panchumarthi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
